@@ -1,0 +1,13 @@
+flask
+flask-cors
+python-dotenv
+torch
+torchvision
+efficientnet_pytorch
+timm
+rembg
+pillow
+numpy
+opencv-python-headless
+requests
+onnxruntime
